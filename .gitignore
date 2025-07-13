@@ -1,0 +1,29 @@
+# Compiled files
+*.prg
+*.debug.prg
+*.elf
+*.map
+*.sym
+
+# IDE specific files
+.project
+.cproject
+.settings/
+.metadata/
+
+# Build directories
+bin/
+build/
+connectiq/
+dist/
+
+# SDK generated files
+monkeybrains.jar
+manifest.xml.orig
+source/generated/
+resources/generated/
+
+# Other
+*.bak
+*.log
+*.tmp
