@@ -27,3 +27,6 @@ resources/generated/
 *.bak
 *.log
 *.tmp
+
+# Developer keys
+developer_key*
